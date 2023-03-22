@@ -1,1 +1,1 @@
-# github-email-integration
+# github-email-integrations
